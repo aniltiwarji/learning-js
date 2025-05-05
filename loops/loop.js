@@ -1,14 +1,14 @@
 
 
 
-let name = "anil"
-let object = "developer"
-let age = 20
+// let name = "anil"
+// let object = "developer"
+// let age = 20
 
 
-let greet = `hello ${name}, welcome to our website.i am ${object}, because you age is ${age}, you are eligble for becoming instructer`
+// let greet = `hello ${name}, welcome to our website.i am ${object}, because you age is ${age}, you are eligble for becoming instructer`
 
-   console.log(greet)
+//    console.log(greet)
 
   
 
@@ -19,27 +19,56 @@ let greet = `hello ${name}, welcome to our website.i am ${object}, because you a
 
 
 
-let number = prompt("give a number, which you want to see the table")
-let stringToNum = Number(number) 
+// let number = prompt("give a number, which you want to see the table")
+// let stringToNum = Number(number) 
 
-for(let i = 1;  i <= 100; i++){
+// for(let i = 1;  i <= 100; i++){
 
-    console.log(stringToNum * i)
-    console.log(`${stringToNum} x ${i} = ${stringToNum * i}`)
+//     console.log(stringToNum * i)
+//     console.log(`${stringToNum} x ${i} = ${stringToNum * i}`)
 
-}
+// }
 
-let greeting = "hello";
-let greeting1 = "how";
-let greeting2 = "are";
-let greeting3 = "you";
-let greeting4 = "guys";
+// let greeting = "hello";
+// let greeting1 = "how";
+// let greeting2 = "are";
+// let greeting3 = "you";
+// let greeting4 = "guys";
 
-console.log(`${greeting} ${greeting1} ${greeting2} ${greeting3} ${greeting4}`);
+// console.log(`${greeting} ${greeting1} ${greeting2} ${greeting3} ${greeting4}`);
 
 
-for(let i = 1; i >= 100 ; i++){
-    console.log(i,greeting)
-    console.log(i)
-}
+// for(let i = 1; i >= 100 ; i++){
+//     console.log(i,greeting)
+//     console.log(i)
+// }
 
+// ..............................loops in advance..............................
+
+// let names = ["rakesh", "ajay" ,"shiva", "ankit", "ramesh", "dinesh", "shyam"]
+
+ 
+// for(let i = 2; i < names.length; i++) {
+   
+
+//     if (names[i] === "shiva") {
+//         console.log("shiva pareek");
+//     } else {
+//       console.log (names[i])}
+
+//    }
+//    for(let i = 4; i < names.length; i++) {
+  
+   
+
+//     if (names[i] === "ramesh") {
+//         console.log("ramesh pareek");
+//     } else {
+//       console.log (names[i])}
+
+//    }
+
+
+
+         
+    
