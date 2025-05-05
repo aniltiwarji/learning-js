@@ -71,17 +71,17 @@
    
   
 let phone = 4444444444
-for(let i = 0; i< 5; i++){
+for(let i = 1; i< 11; i++){
 
     let phone = 6666666666
     console.log(i)
 }
 console.log(phone)
 
-for(let i = 0; i< 5; i++){
-    let phone =8888888888
+for(let i = 40; i< 51; i++){
+    let phone = 8888888888
     console.log(i)
 }
 
-console.log(phone)
+console.log(phone) 
     
